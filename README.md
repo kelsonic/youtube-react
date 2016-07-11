@@ -1,25 +1,41 @@
-# ReduxSimpleStarter
+# YouTube React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a YouTube clone with React.js.
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+## Getting Started
 
 ```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
+git clone https://github.com/kelsonic/youtube-react.git
+
+cd /youtube-react
+
+npm install
+
+npm start
 ```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+It should not be running on [localhost:8080](http://localhost:8080).
 
-```
-	> npm install
-	> npm start
-```
+## Purpose
+
+This is a simple React app that is meant to show the basics of how components work without using Redux.
+
+## Credits
+
+* [kelsonic](http://kelsonic.io)
+
+## Contributing
+
+1. Fork it
+
+2. Clone your forked repo
+
+3. Make a new branch
+
+4. Make your edits (or add new features!)
+
+5. Make a pull request :D
+
+## License
+
+MIT License. View it [here](LICENSE).
