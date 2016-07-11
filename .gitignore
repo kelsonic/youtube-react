@@ -1,7 +1,7 @@
 /node_modules
 bundle.js
 npm-debug.log
-secret.md
+/src/secret.js
 
 # IntelliJ
 *.iml
