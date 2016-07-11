@@ -1,6 +1,6 @@
 # YouTube React
 
-This is a YouTube clone with React.js.
+This is a YouTube clone with React.js and webpack.
 
 ## Getting Started
 
