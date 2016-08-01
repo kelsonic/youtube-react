@@ -18,7 +18,9 @@ It should not be running on [localhost:8080](http://localhost:8080).
 
 ## Purpose
 
-This is a simple React app that is meant to show the basics of how components work without using Redux.
+Loading videos with YouTube can sometimes become slow with all of the advertisements. This app is meant to make the search process for YouTube videos much quicker.
+
+![YouTube](readme-image.png)
 
 ## Credits
 
